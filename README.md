@@ -1,4 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
 <!-- saved from url=(0062)http://coursera.cs.princeton.edu/algs4/assignments/kdtree.html -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
